@@ -2,8 +2,7 @@
 
 ## References and Resources
 
-[List any resources used here, or simply put `N/A` if not applicable.
-](https://developer.android.com/reference/java/io/Serializable)
+(https://developer.android.com/reference/java/io/Serializable)
 
 ## Verbal Collaboration
 
